@@ -1,2 +1,3 @@
 # simple-autoencoder
-Script to train a simple autoencoder on tiled images using Tensorflow/Keras
+
+This repository contains scripts to tile a set of images (assumed to be tifs) before training a simple autoencoder on the tiled image stacks.
